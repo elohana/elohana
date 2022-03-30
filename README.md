@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @elohana
-- 👀 I’m interested in human-computer interaction/ai and ui/ux
-- 🌱 I’m currently learning python, java, and swift
-- 💞️ I’m looking to collaborate on cool applications!
-- 📫 How to reach me ...
+- 👀 i’m interested in human-computer interaction/ai and ui/ux
+- 🌱 incoming cs student @ tbd! 
 
 <!---
 elohana/elohana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
